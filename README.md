@@ -29,3 +29,5 @@ This C++ program takes a string expression like `3 + 5 * (2 - 1)` and evaluates 
 ##  Sample Run
 input 3+5*(2-1)
 output 8
+
+<img width="1604" height="618" alt="Image" src="https://github.com/user-attachments/assets/a59445bf-7d5b-4024-8920-61355cf8e1a7" />
